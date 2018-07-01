@@ -12,4 +12,8 @@
     "!www/lib/**/*",
     "!www/**/*.map"
  ]
+  "gulpStartupTasks": [
+    "sass", 
+    "watch"
+  ] 
 }
