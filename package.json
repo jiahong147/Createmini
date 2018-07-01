@@ -11,4 +11,9 @@
   "dependencies": {
     "@ionic/pro": "1.0.20"
   }
+   "repository": {
+    "type": "git",
+    "url": "git://github.com/jiahong147/Createmini.git"
+  }
+
 }
